@@ -5,14 +5,14 @@
 
 | Rcmdr 增益集 | 英文說明 | 中文說明 |
 |---|---|---|
-| Rcmdr | R Commander | Rcmdr主程式 |
-| RcmdrMisc | R Commander Miscellaneous Functions | Rcmdr相關函數 |
-| RcmdrPlugin.aRnova | R Commander Plug-in for Repeated-Measures ANOVA | 變異數分析 |
-| RcmdrPlugin.BiclustGUI | 'Rcmdr' Plug-in GUI for Biclustering | 生物集群法與視覺化 |
-| RcmdrPlugin.BWS1 | R Commander Plug-in for Case 1 Best-Worst Scaling | 情形1最佳與最差縮放法 |
-| RcmdrPlugin.BWS2 | R Commander Plug-in for Case 2 Best-Worst Scaling | 情形2最佳與最差縮放法 |
-| RcmdrPlugin.BWS3 | R Commander Plug-in for Case 3 Best-Worst Scaling | 情形3最佳與最差縮放法 |
-| RcmdrPlugin.coin | Rcmdr Coin Plug-in | coin套件(Conditional Inference Procedures in a Permutation Test Framework)置換檢定 |
+| 1. Rcmdr | R Commander | Rcmdr主程式 |
+| 2. RcmdrMisc | R Commander Miscellaneous Functions | Rcmdr相關函數 |
+| 3. RcmdrPlugin.aRnova | R Commander Plug-in for Repeated-Measures ANOVA | 變異數分析 |
+| 4. RcmdrPlugin.BiclustGUI | 'Rcmdr' Plug-in GUI for Biclustering | 生物集群法與視覺化 |
+| 5. RcmdrPlugin.BWS1 | R Commander Plug-in for Case 1 Best-Worst Scaling | 情形1最佳與最差縮放法 |
+| 6. RcmdrPlugin.BWS2 | R Commander Plug-in for Case 2 Best-Worst Scaling | 情形2最佳與最差縮放法 |
+| 7. RcmdrPlugin.BWS3 | R Commander Plug-in for Case 3 Best-Worst Scaling | 情形3最佳與最差縮放法 |
+| 8. RcmdrPlugin.coin | Rcmdr Coin Plug-in | coin套件(Conditional Inference Procedures in a Permutation Test Framework)置換檢定 |
 | RcmdrPlugin.cpd | R Commander Plug-in for Complex Pearson Distributions | 複雜皮爾遜分配 |
 | RcmdrPlugin.DCCV | R Commander Plug-in for Dichotomous Choice Contingent Valuation | 二元選擇條件評估法 |
 | RcmdrPlugin.DCE | R Commander Plug-in for Discrete Choice Experiments | 離散選擇實驗 |
