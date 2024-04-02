@@ -4,6 +4,8 @@
 
 # R,RStudio簡介
 
+https://github.com/rwepa/teaching-Rcmdr/blob/main/01-r-rstudio.pdf
+
 # Rcmdr簡介
 
 Rcmdr 套件特色如下：
