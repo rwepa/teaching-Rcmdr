@@ -4,13 +4,13 @@
 
 1. John Fox 教授於2003年在加拿大麥克馬斯特大學（McMaster University）社會科學學院發表Rcmdr套件，Rcmdr全名是 R Commander 。
 2. Rcmdr套件基於免費tcltk 框架並使用Ｒ語言撰寫的視窗操作統計分析套件。tcltk 表示 Tcl（Tool Command Language) 和 Tk (Graphical User Interface Toolkit）統稱。
-3. Rcmdr套件可透過視窗滑鼠與鍵盤選取完成統計分析功能。
+3. Rcmdr套件可以透過視窗滑鼠與鍵盤選取完成統計分析功能。
 4. Rcmdr支援資料摘要分析、T檢定、變異數分析、迴歸、廣義線性模型、主成分分析與集群分析等統計模型。
 5. Rcmdr支援增益集的使用，例：存活分析等。
 
 # 2024.4.1 RcmdrPlugin
 
-RcmdrP增益集除了 Rcmdr與RcmdrMisc二個基本套件，另包括 RcmdrPlugin.aRnova 等套件，詳細清單如下：
+增益集套件除了 Rcmdr 與 RcmdrMisc 二個基本套件，另包括 RcmdrPlugin.aRnova 等套件，合計38個套件，詳細清單如下：
 
 | Rcmdr 增益集 | 英文說明 | 中文說明 |
 |---|---|---|
@@ -31,24 +31,24 @@ RcmdrP增益集除了 Rcmdr與RcmdrMisc二個基本套件，另包括 RcmdrPlugi
 | 15. RcmdrPlugin.EBM | Rcmdr Evidence Based Medicine Plug-in Package | 實證醫學醫療指標 |
 | 16. RcmdrPlugin.EcoVirtual | Rcmdr EcoVirtual Plugin | 生態學課程教材 |
 | 17. RcmdrPlugin.Export | Export R Output to LaTeX or HTML | 輸出為 LaTeX 或 HTML 檔案 |
-| 18. RcmdrPlugin.EZR | R Commander Plug-in for the EZR (Easy R) Package | 存活分析, ROC分析, 元分析, 樣本計算等統計函數 |
-| 19. RcmdrPlugin.FactoMineR | Graphical User Interface for FactoMineR | 多變量探索性資料分析與資料探勘, 包括PCA, CA, MCA等方法 |
+| 18. RcmdrPlugin.EZR | R Commander Plug-in for the EZR (Easy R) Package | 存活分析，ROC分析，元分析，樣本計算等統計函數 |
+| 19. RcmdrPlugin.FactoMineR | Graphical User Interface for FactoMineR | 多變量探索性資料分析與資料探勘，包括PCA，CA，MCA等方法 |
 | 20. RcmdrPlugin.GWRM | R Commander Plug-in for Fitting Generalized Waring Regression Models | 廣義警告迴歸模型 |
-| 21. RcmdrPlugin.HH | Rcmdr Support for the HH Package | 配合 Statistical Analysis and Data Display, Second Edition, 2015 書籍 |
+| 21. RcmdrPlugin.HH | Rcmdr Support for the HH Package | 參考 Statistical Analysis and Data Display, Second Edition, 2015 書籍 |
 | 22. RcmdrPlugin.KMggplot2 | R Commander Plug-in for Data Visualization with 'ggplot2' | 使用ggplot2資料視覺化 |
-| 23. RcmdrPlugin.MA | Graphical User Interface for Conducting Meta-Analyses in R | 配合 Handbook of Research Synthesis and Meta-Analysis, Cooper, Hedges, & Valentine, 2009 書籍 |
-| 24. RcmdrPlugin.MPAStats | R Commander Plug-in for MPA Statistics | Brigham Young University 公共管理碩士課程 PMGT 630 課程教材 |
+| 23. RcmdrPlugin.MA | Graphical User Interface for Conducting Meta-Analyses in R | 參考 Handbook of Research Synthesis and Meta-Analysis, Cooper, Hedges, & Valentine, 2009 書籍 |
+| 24. RcmdrPlugin.MPAStats | R Commander Plug-in for MPA Statistics | 美國 Brigham Young University 公共管理碩士課程PMGT630教材 |
 | 25. RcmdrPlugin.NMBU | R Commander Plug-in for University Level Applied Statistics | Partial Least Squares Regression and Linear and Quadratic Discriminant analysis |
 | 26. RcmdrPlugin.orloca | A GUI for Planar Location Problems | 作業研究中 min-sum location 問題 |
 | 27. RcmdrPlugin.PcaRobust | R Commander Plug-in for Robust Principal Component Analysis | 穩健主成分分析 |
 | 28. RcmdrPlugin.RiskDemo | R Commander Plug-in for Risk Demonstration | 精算和財務風險 |
-| 29. RcmdrPlugin.RMTCJags | R MTC Jags 'Rcmdr' Plugin | 混合治療比較法 Mixed Treatment Comparison |
+| 29. RcmdrPlugin.RMTCJags | R MTC Jags 'Rcmdr' Plugin | 混合治療比較法（Mixed Treatment Comparison） |
 | 30. RcmdrPlugin.ROC | Rcmdr Receiver Operator Characteristic Plug-in Package | 特徵操作曲線計算與繪圖 |
 | 31. RcmdrPlugin.SCDA | Rcmdr Plugin for Designing and Analyzing Single-Case Experiments | 單一對象實驗設計 |
-| 32. RcmdrPlugin.sos | Efficiently search the R help pages | R快速函數,資料集搜尋 |
-| 33. RcmdrPlugin.survival | R Commander Plug-in for the 'survival' Package | 存活分析 |
+| 32. RcmdrPlugin.sos | Efficiently search the R help pages | R中函數與資料集快速搜尋 |
+| 33. RcmdrPlugin.survival | R Commander Plug-in for the ＇survival＇ Package | 存活分析 |
 | 34. RcmdrPlugin.TeachingDemos | Rcmdr Teaching Demos Plug-in | R教學示範 |
 | 35. RcmdrPlugin.TeachStat | R Commander Plugin for Teaching Statistical Methods | 統計方法教學 |
 | 36. RcmdrPlugin.temis | Graphical Integrated Text Mining Solution | 文字探勘 |
 | 37. RcmdrPlugin.UCA | UCA Rcmdr Plug-in | 變異數檢定, 隨機檢定 |
-| 38. RcmdrPlugin.WorldFlora | R Commander Plug-in for the 'WorldFlora' Package | 世界線上植物搜尋 |
+| 38. RcmdrPlugin.WorldFlora | R Commander Plug-in for the ＇WorldFlora＇ Package | 世界線上植物搜尋 |
