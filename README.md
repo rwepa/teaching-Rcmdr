@@ -1,7 +1,12 @@
 # teaching-Rcmdr
 
-日期：2024.4.1
-主題：本篇文章提供 Rcmdr 教學與說明，Rcmdr 套件特色如下：
+本篇文章提供 Rcmdr 教學與說明。
+
+# R,RStudio簡介
+
+# Rcmdr簡介
+
+Rcmdr 套件特色如下：
 
 1. John Fox 教授於2003年在加拿大麥克馬斯特大學（McMaster University）社會科學學院發表Rcmdr套件，Rcmdr全名是 R Commander 。
 2. Rcmdr套件基於免費tcltk 框架並使用Ｒ語言撰寫的視窗操作統計分析套件。tcltk 表示 Tcl（Tool Command Language) 和 Tk (Graphical User Interface Toolkit）統稱。
