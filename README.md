@@ -46,9 +46,9 @@
 | 30. RcmdrPlugin.ROC | Rcmdr Receiver Operator Characteristic Plug-in Package | 特徵操作曲線計算與繪圖 |
 | 31. RcmdrPlugin.SCDA | Rcmdr Plugin for Designing and Analyzing Single-Case Experiments | 單一對象實驗設計 |
 | 32. RcmdrPlugin.sos | Efficiently search the R help pages | R中函數與資料集快速搜尋 |
-| 33. RcmdrPlugin.survival | R Commander Plug-in for the ＇survival＇ Package | 存活分析 |
+| 33. RcmdrPlugin.survival | R Commander Plug-in for the 'survival' Package | 存活分析 |
 | 34. RcmdrPlugin.TeachingDemos | Rcmdr Teaching Demos Plug-in | R教學示範 |
 | 35. RcmdrPlugin.TeachStat | R Commander Plugin for Teaching Statistical Methods | 統計方法教學 |
 | 36. RcmdrPlugin.temis | Graphical Integrated Text Mining Solution | 文字探勘 |
 | 37. RcmdrPlugin.UCA | UCA Rcmdr Plug-in | 變異數檢定, 隨機檢定 |
-| 38. RcmdrPlugin.WorldFlora | R Commander Plug-in for the ＇WorldFlora＇ Package | 世界線上植物搜尋 |
+| 38. RcmdrPlugin.WorldFlora | R Commander Plug-in for the 'WorldFlora' Package | 世界線上植物搜尋 |
