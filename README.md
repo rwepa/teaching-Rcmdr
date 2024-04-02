@@ -4,7 +4,7 @@
 
 # R,RStudio簡介
 
-＋ 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/01-r-rstudio.pdf
++ 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/01-r-rstudio.pdf
 
 # Rcmdr簡介
 
@@ -16,7 +16,7 @@ Rcmdr 套件特色如下：
 4. Rcmdr支援資料摘要分析、T檢定、變異數分析、迴歸、廣義線性模型、主成分分析與集群分析等統計模型。
 5. Rcmdr支援增益集的使用，例：存活分析等。
 
-＋ 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/02-Rcmdr-tutorial.pdf
++ 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/02-Rcmdr-tutorial.pdf
 
 # RcmdrPlugin
 
