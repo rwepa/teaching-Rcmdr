@@ -1,5 +1,12 @@
 # teaching-Rcmdr
-本篇文章提供 Rcmdr 相關說明
+
+本篇文章提供 Rcmdr 教學與說明, Rcmdr 套件特色如下:
+
+1. John Fox 教授於2003年在加拿大麥克馬斯特大學（McMaster University）社會科學學院發表Rcmdr套件，Rcmdr全名是 R Commander 。
+2. Rcmdr套件基於免費tcltk 框架並使用Ｒ語言撰寫的視窗操作統計分析套件。tcltk 表示 Tcl（Tool Command Language) 和 Tk (Graphical User Interface Toolkit）統稱。
+3. Rcmdr套件可透過視窗滑鼠與鍵盤選取完成統計分析功能。
+4. Rcmdr支援資料摘要分析、T檢定、變異數分析、迴歸、廣義線性模型、主成分分析與集群分析等統計模型。
+5. Rcmdr支援增益集的使用，例：存活分析等。
 
 # 2024.4.1 Rcmdr 增益集清單
 
