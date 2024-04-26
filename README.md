@@ -2,11 +2,11 @@
 
 本篇文章提供 Rcmdr 教學與說明。
 
-# R,RStudio簡介
+# 01.R,RStudio簡介
 
 + 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/01-r-rstudio.pdf
 
-# Rcmdr簡介
+# 02.Rcmdr簡介
 
 Rcmdr 套件特色如下：
 
@@ -18,24 +18,29 @@ Rcmdr 套件特色如下：
 
 + 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/02-Rcmdr-tutorial.pdf
 
-# Tab檔案匯入技巧
+# 03.Tab檔案匯入技巧
 
 + 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/03-Rcmdr-import-tab-file.pdf
 
-# 宗教社會服務概況資料分析
+# 04.宗教社會服務概況資料分析
 
 + 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/04-Rcmdr-Social_Services_of_Religions.pdf
 
 + 大綱
+
 1.資料預處理
+
 2.使用Rcmdr套件進行資料匯入
+
 3.資料摘要分析
+
 4.資料視覺化分析
   4.1直方圖
   4.2盒鬚圖
   4.3散佈圖
   4.4散佈矩陣圖
   4.5折線圖
+
 參考文獻
 
 # RcmdrPlugin
