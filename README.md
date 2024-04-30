@@ -4,7 +4,7 @@
 
 # 01.R,RStudio簡介
 
-+ 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/01-r-rstudio.pdf
++ 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/01-r-rstudio.pdf
 
 # 02.Rcmdr簡介
 
@@ -16,19 +16,23 @@ Rcmdr 套件特色如下：
 4. Rcmdr支援資料摘要分析、T檢定、變異數分析、迴歸、廣義線性模型、主成分分析與集群分析等統計模型。
 5. Rcmdr支援增益集的使用，例：存活分析等。
 
-+ 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/02-Rcmdr-tutorial.pdf
++ 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/02-Rcmdr-tutorial.pdf
 
-# 03.Tab檔案匯入技巧
+# 03.import_tab_file
 
-+ 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/03-Rcmdr-import-tab-file.pdf
++ 主題: Tab檔案匯入技巧
 
-# 04.宗教社會服務概況資料分析
++ 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/03-Rcmdr-import-tab-file.pdf
 
-+ 教材下載 https://github.com/rwepa/teaching-Rcmdr/blob/main/04-Rcmdr-Social_Services_of_Religions.pdf
+# 04.Social_Services_of_Religions
 
-+ 原始資料下載[y01-04.xls] https://github.com/rwepa/teaching-Rcmdr/blob/main/y01-04.xls
++ 主題: 宗教社會服務概況資料分析
 
-+ 整理完成下載[y01-04-完成版.xls] https://github.com/rwepa/teaching-Rcmdr/blob/main/y01-04-完成版.xls
++ 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/04-Rcmdr-Social_Services_of_Religions.pdf
+
++ 原始資料下載[y01-04.xls]: https://github.com/rwepa/teaching-Rcmdr/blob/main/y01-04.xls
+
++ 整理完成下載[y01-04-完成版.xls]: https://github.com/rwepa/teaching-Rcmdr/blob/main/y01-04-完成版.xls
 
 + 大綱
 
