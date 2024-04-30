@@ -42,7 +42,7 @@ Rcmdr 套件特色如下：
 
   參考文獻
 
-# 05-ggplot2_tutorial.R
+# 05-ggplot2_tutorial
 
 + 下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/05-ggplot2_tutorial.R
 # RcmdrPlugin
