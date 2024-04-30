@@ -2,11 +2,11 @@
 
 本篇文章提供 Rcmdr 教學與說明。
 
-# 01.R,RStudio簡介
+# 01.R,RStudio
 
 + 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/01-r-rstudio.pdf
 
-# 02.Rcmdr簡介
+# 02.Rcmdr
 
 Rcmdr 套件特色如下：
 
