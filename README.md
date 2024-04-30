@@ -18,7 +18,7 @@ Rcmdr 套件特色如下：
 
 + 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/02-Rcmdr-tutorial.pdf
 
-# 03.import_tab_file
+# 03.Import Tab File
 
 + 主題: Tab檔案匯入技巧
 
@@ -46,7 +46,7 @@ Rcmdr 套件特色如下：
 
   參考文獻
 
-# 05.ggplot2_tutorial
+# 05.ggplot2 tutorial
 
 + 下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/05-ggplot2_tutorial.R
 # RcmdrPlugin
