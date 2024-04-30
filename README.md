@@ -24,7 +24,7 @@ Rcmdr 套件特色如下：
 
 + 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/03-Rcmdr-import-tab-file.pdf
 
-# 04.Social_Services_of_Religions
+# 04.Social Services of Religions
 
 + 主題: 宗教社會服務概況資料分析
 
