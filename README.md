@@ -54,6 +54,18 @@ Rcmdr 套件特色如下：
 
 + 主題: 套件簡介
 
++ 大綱
+
+  1.套件簡介
+
+  2.套件的應用類別(CRAN Task Views)
+
+  3.套件的安裝與載入
+
+  4.內建安裝 lattice 套件簡介
+
+  5.自行安裝套件 chords
+
 + 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/06-Rcmdr-package.pdf
 
 + R程式碼下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/06-Rcmdr-package.R
