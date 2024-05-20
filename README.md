@@ -49,9 +49,20 @@ Rcmdr 套件特色如下：
 # 05.ggplot2 tutorial
 
 + 下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/05-ggplot2_tutorial.R
+
+# 06.package
+
++ 主題: 套件簡介
+
++ 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/06-Rcmdr-package.pdf
+
++ R程式碼下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/06-Rcmdr-package.R
+
 # RcmdrPlugin
 
-增益集套件除了 Rcmdr 與 RcmdrMisc 二個基本套件，另包括 RcmdrPlugin.aRnova 等套件，合計38個套件，詳細清單如下：
+主題: Rcmdr 外掛套件
+
+說明: 增益集套件除了 Rcmdr 與 RcmdrMisc 二個基本套件，另包括 RcmdrPlugin.aRnova 等套件，合計38個套件，詳細清單如下：
 
 | Rcmdr 增益集 | 英文說明 | 中文說明 |
 |---|---|---|
