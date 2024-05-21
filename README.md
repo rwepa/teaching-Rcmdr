@@ -70,6 +70,26 @@ Rcmdr 套件特色如下：
 
 + R程式碼下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/06-Rcmdr-package.R
 
+# 07.變異數分析(ANOVA)
+
+主題: 變異數分析(Analysis of Variance, ANOVA)
+
++ 大綱
+
+  1.F分配-Rcmdr
+
+  2.變異數分析簡介
+
+  3.單因子變異數分析
+
+  4.二因子變異數分析
+
+  5.變異數分析-Rcmdr
+
++ 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/07_Rcmdr-anova.pdf
+
++ R程式碼下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/07_Rcmdr-anova.R
+
 # RcmdrPlugin
 
 主題: Rcmdr 外掛套件
