@@ -90,6 +90,17 @@ Rcmdr 套件特色如下：
 
 + R程式碼下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/07_Rcmdr-anova.R
 
+# 08.迴歸 (Regression)
+
++ 大綱
+
+  1.線性迴歸簡介
+  2.複迴歸
+  3.Rcmdr demo
+  4.課程回顧
+
++ 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/08_Rcmdr-regression.pdf
+
 # RcmdrPlugin
 
 主題: Rcmdr 外掛套件
