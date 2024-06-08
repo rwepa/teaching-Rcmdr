@@ -99,8 +99,6 @@ Rcmdr 套件特色如下：
   2.複迴歸
   
   3.Rcmdr demo
-  
-  4.課程回顧
 
 + 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/08_Rcmdr-regression.pdf
 
@@ -119,6 +117,8 @@ Rcmdr 套件特色如下：
   5.Rcmdr-Levene檢定(同質性檢定)
 
   6.Rmcdr-獨立樣本t檢定(變異數同質性與不同質性)
+
+  7.課程回顧
 
 + 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/09_Rcmdr-questionnaire.pdf
 
