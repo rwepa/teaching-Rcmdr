@@ -104,6 +104,24 @@ Rcmdr 套件特色如下：
 
 + 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/08_Rcmdr-regression.pdf
 
+# 09.問卷調查(Questionnaire)
+
++ 大綱
+
+  1.效度與信度
+
+  2.Rcmdr- Cronbach’s α 內部一致性信度
+
+  3.Rmcdr-值標籤設定
+
+  4.Rmcdr-相關係數
+
+  5.Rcmdr-Levene檢定(同質性檢定)
+
+  6.Rmcdr-獨立樣本t檢定(變異數同質性與不同質性)
+
++ 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/09_Rcmdr-questionnaire.pdf
+
 # RcmdrPlugin
 
 主題: Rcmdr 外掛套件
