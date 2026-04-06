@@ -4,8 +4,7 @@
 
 # macOS + R + Rcmdr
 
-+ https://github.com/rwepa/teaching-Rcmdr/blob/main/macOS-Rcmdr.pdf
-2026.4.6 updated
++ https://github.com/rwepa/teaching-Rcmdr/blob/main/macOS-Rcmdr.pdf (2026.4.6 updated)
 
 # 01.R,RStudio
 
