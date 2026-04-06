@@ -2,6 +2,11 @@
 
 本篇文章提供 Rcmdr 教學與說明。
 
+# macOS + R + Rcmdr
+
++ https://github.com/rwepa/teaching-Rcmdr/blob/main/macOS-Rcmdr.pdf
+2026.4.6 updated
+
 # 01.R,RStudio
 
 + 教材下載: https://github.com/rwepa/teaching-Rcmdr/blob/main/01-r-rstudio.pdf
